@@ -37,13 +37,13 @@ The project uses the following AWS services:
 ## Screenshots
 
 ### S3 Bucket Created
-![S3 Bucket](create-bucket.png)
+![S3 Bucket](create-bucke.png)
 
 ### Static Website Hosting Enabled
-![Website Hosting](bucket-policy.png)
+![Website Hosting](bucket-poliy.png)
 
 ### Uploading files
-![Uploading files](upload-files.png)
+![Uploading files](upload-fies.png)
 
 ### Website in browser
-![Website Live](website.png)
+![Website Live](websie.png)
